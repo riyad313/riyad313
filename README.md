@@ -6,7 +6,7 @@ I am a passionate programmer.
 I regularly do coding. 
 I love to go to shopping and travelling 💚. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS / Python / Django / PHP / Laravel / 
+Skills: VUE JS / REACT / JS / HTML / CSS / Python / Django /
 
 - 🔭 I’m currently working on Machine Learning, Cyber Security and Blockchain 
 - 🌱 I’m currently learning Blockchain 
